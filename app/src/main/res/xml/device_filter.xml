@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fastboot Interface: Class 255 (0xFF), Subclass 66 (0x42), Protocol 3 (0x03) -->
+    <usb-device class="255" subclass="66" protocol="3" />
+    <!-- ADB Interface: Class 255 (0xFF), Subclass 66 (0x42), Protocol 1 (0x01) -->
+    <usb-device class="255" subclass="66" protocol="1" />
+    <!-- Generic Vendor-specific devices often used by custom bootloaders -->
+    <usb-device class="255" subclass="255" protocol="255" />
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "ROM Flash Tool",
+  "description": "Mobile Fastboot and ADB ROM flashing utility with Python 3 application engine, partition backup/restore, custom image installer, and USB OTG support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
